@@ -1,0 +1,11 @@
+product_id,product_name,category
+1,Laptop,Electronics
+2,Smartphone,Electronics
+3,Headphones,Accessories
+4,Coffee Maker,Appliances
+5,Blender,Appliances
+6,T-Shirt,Clothing
+7,Jeans,Clothing
+8,Sneakers,Footwear
+9,Watch,Accessories
+10,Camera,Electronics

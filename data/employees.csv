@@ -1,0 +1,13 @@
+employee_id,name,role,hire_date,salary
+1,John Smith,Manager,2020-01-15,55000.0
+2,Jane Doe,Sales Associate,2021-03-10,32000.0
+3,Alice Johnson,Cashier,2022-05-20,28000.0
+4,Robert Brown,Sales Associate,2021-06-01,33000.0
+5,Emily Davis,Manager,2020-08-12,58000.0
+6,Michael Miller,Sales Associate,2021-09-22,31000.0
+7,Sarah Wilson,Cashier,2023-01-11,27000.0
+8,David Moore,Sales Associate,2022-02-25,30000.0
+9,Olivia Taylor,Cashier,2022-04-05,29000.0
+10,Daniel Anderson,Manager,2019-07-17,60000.0
+11,Sophia Thomas,Sales Associate,2021-12-08,32500.0
+12,James Jackson,Cashier,2023-03-25,26000.0
